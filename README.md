@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Anotações
+Two way data binding:
+https://www.macoratti.net/15/02/angjs_3.htm#:~:text=O%20recurso%20da%20vincula%C3%A7%C3%A3o%20de,refletir%20as%20mudan%C3%A7as%20do%20modelo.
+
+Diretivas no Angular:
+https://www.freecodecamp.org/portuguese/news/como-usar-e-criar-diretivas-personalizadas-no-angular/#:~:text=O%20que%20%C3%A9%20uma%20diretiva,anexando%20comportamentos%20personalizados%20ao%20DOM.
