@@ -32,3 +32,15 @@ https://www.macoratti.net/15/02/angjs_3.htm#:~:text=O%20recurso%20da%20vincula%C
 
 Diretivas no Angular:
 https://www.freecodecamp.org/portuguese/news/como-usar-e-criar-diretivas-personalizadas-no-angular/#:~:text=O%20que%20%C3%A9%20uma%20diretiva,anexando%20comportamentos%20personalizados%20ao%20DOM.
+
+As diretivas no Angular, são um recurso fundamental para manipular o DOM (Document Object Model) de maneira declarativa.
+
+As diretivas podem ser utilizadas para diferentes finalidades, tais como definir atributos personalizados em elementos HTML, escutar eventos em elementos HTML e fazer a ligação de dados entre elementos HTML e propriedades em componentes Angular.
+
+
+Exemplo de algumas diretivas:
+[teste]: diretiva de atributo.
+(teste): diretiva de evento.
+[(teste)]: diretiva de binding de duas vias. (two way databinding)
+
+Comunicação entre componentes no Angular: pode ser realizada através das diretivas de binding de entrada ([inputProperty]) e de saída ((outputEvent)). A diretiva de binding de entrada permite que dados sejam passados de um componente pai para um componente filho, enquanto a diretiva de binding de saída permite que eventos sejam emitidos de um componente filho para um componente pai.
