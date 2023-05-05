@@ -44,3 +44,14 @@ Exemplo de algumas diretivas:
 [(teste)]: diretiva de binding de duas vias. (two way databinding)
 
 Comunicação entre componentes no Angular: pode ser realizada através das diretivas de binding de entrada ([inputProperty]) e de saída ((outputEvent)). A diretiva de binding de entrada permite que dados sejam passados de um componente pai para um componente filho, enquanto a diretiva de binding de saída permite que eventos sejam emitidos de um componente filho para um componente pai.
+
+### Resumindo:
+Diretivas de componentes: usado com um modelo. Esse tipo de diretiva é a mais comum.
+Ex: <app-listarPensamentos>.
+
+Diretivas estruturais: altera o layout do DOM adicionando e removendo elementos DOM.
+Ex: NgIf, NgFor. NgSwitch.
+
+Diretivas de atributos: altera a aparência ou o comportamento de um elemento, componente ou outra diretiva.
+Ex: NgClass, NgStyle.
+
